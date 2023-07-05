@@ -1,0 +1,41 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    width: 300px;
+    margin: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: grey;
+    font-family: Arial, sans-serif;
+    box-shadow: 5px 5px 5px 5px;
+  }
+  
+  .animal-image {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .animal-name {
+    margin-top: 10px;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .animal-description {
+    margin-top: 10px;
+  }
+  
+  .animal-details {
+    margin-top: 20px;
+    padding-left: 0;
+  }
+  
+  .animal-details li {
+    list-style: none;
+    margin-bottom: 5px;
+  }
+  
+  .animal-details strong {
+    font-weight: bold;
+  }
+  
